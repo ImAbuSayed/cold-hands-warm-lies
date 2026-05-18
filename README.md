@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cold-hands-warm-lies/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Cold Hands Warm Lies](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cold-hands-warm-lies/) |
+| **Get License** | [Request Licensing for Cold Hands Warm Lies](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cold-hands-warm-lies/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Kachi neend ch uthda main kudiye feeling this space
+> Mere dil di dhadkan ruk jaandi seeing your face
+> Ni tu agg laayi mere seene ch sweet criminal
+> Main talli ho gaya khaa ke tera love poison
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
