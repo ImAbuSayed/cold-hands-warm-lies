@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cold-hands-warm-lies/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Cold Hands Warm Lies](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cold-hands-warm-lies/) |
+| **Get License** | [Get License For Cold Hands Warm Lies](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cold-hands-warm-lies/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/1613)
 
 ---
 
